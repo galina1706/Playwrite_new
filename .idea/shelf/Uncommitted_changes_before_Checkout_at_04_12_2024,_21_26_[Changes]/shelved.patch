@@ -1,0 +1,171 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"2ce499ad-b022-40c6-ba0c-1669eb8cb8d6\" name=\"Changes\" comment=\"initial commit\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/tests/first.spec.ts\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/tests/first.spec.ts\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;galina1706&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/galina1706/Playwrite_new.git&quot;,\n    &quot;accountId&quot;: &quot;a7d97669-bac7-4a8c-a052-24ec652612d1&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"2plqP3nyezGZUqG5bqa3pV5drLG\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;hw__23.1&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;ts.external.directory.path&quot;: &quot;/Users/user/WebstormProjects/Playwrite_new/node_modules/typescript/lib&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RunManager\">\n    <configuration name=\"Registration pop up.Registration, positive scenario\" type=\"JavaScriptTestRunnerPlaywright\" temporary=\"true\" nameIsGenerated=\"true\">\n      <node-interpreter value=\"project\" />\n      <playwright-package value=\"$PROJECT_DIR$/node_modules/@playwright/test\" />\n      <working-dir value=\"$PROJECT_DIR$\" />\n      <envs />\n      <scope-kind value=\"TEST\" />\n      <test-file value=\"$PROJECT_DIR$/tests/first.spec.ts\" />\n      <test-names>\n        <test-name value=\"Registration pop up\" />\n        <test-name value=\"Registration, positive scenario\" />\n      </test-names>\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Playwright.Registration pop up.Registration, positive scenario\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"2ce499ad-b022-40c6-ba0c-1669eb8cb8d6\" name=\"Changes\" comment=\"\" />\n      <created>1733350981371</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1733350981371</updated>\n      <workItem from=\"1733350982422\" duration=\"3432000\" />\n      <workItem from=\"1733362622714\" duration=\"5221000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"initial commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1733351378029</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1733351378029</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"initial commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1733351470222</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1733351470222</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"initial commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"initial commit\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 77b92764b0a921c0c00ab32dc55777729bde013e)
++++ b/.idea/workspace.xml	(date 1733376201991)
+@@ -4,9 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="2ce499ad-b022-40c6-ba0c-1669eb8cb8d6" name="Changes" comment="initial commit">
++    <list default="true" id="2ce499ad-b022-40c6-ba0c-1669eb8cb8d6" name="Changes" comment="first commit">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/tests/first.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/first.spec.ts" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -27,12 +26,22 @@
+     &quot;assignee&quot;: &quot;galina1706&quot;
+   }
+ }</component>
+-  <component name="GithubPullRequestsUISettings">{
+-  &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/galina1706/Playwrite_new.git&quot;,
+-    &quot;accountId&quot;: &quot;a7d97669-bac7-4a8c-a052-24ec652612d1&quot;
+-  }
+-}</component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/galina1706/Playwrite_new.git",
++    "accountId": "a7d97669-bac7-4a8c-a052-24ec652612d1"
++  },
++  "recentNewPullRequestHead": {
++    "server": {
++      "useHttp": false,
++      "host": "github.com",
++      "port": null,
++      "suffix": null
++    },
++    "owner": "galina1706",
++    "repository": "Playwrite_new"
++  }
++}]]></component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 2
+ }</component>
+@@ -42,23 +51,47 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;hw__23.1&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;ts.external.directory.path&quot;: &quot;/Users/user/WebstormProjects/Playwrite_new/node_modules/typescript/lib&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Playwright.Registration pop up.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "disable.download.node.interpreter.editor.notification": "true",
++    "git-widget-placeholder": "#1 on hw__23.1",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_interpreter_path": "/Users/user/.nvm/versions/node/v20.12.0/bin/node",
++    "nodejs_package_manager_path": "npm",
++    "settings.editor.selected.configurable": "preferences.pluginManager",
++    "ts.external.directory.path": "/Users/user/WebstormProjects/Playwrite_new/node_modules/typescript/lib",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
+-  <component name="RunManager">
++}]]></component>
++  <component name="RunManager" selected="Playwright.Registration pop up">
++    <configuration name="All Tests" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
++      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v20.12.0/bin/node" />
++      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
++      <working-dir value="$PROJECT_DIR$" />
++      <envs />
++      <scope-kind value="ALL" />
++      <method v="2" />
++    </configuration>
++    <configuration name="Registration pop up" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
++      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v20.12.0/bin/node" />
++      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
++      <working-dir value="$PROJECT_DIR$" />
++      <envs />
++      <scope-kind value="SUITE" />
++      <test-file value="$PROJECT_DIR$/tests/first.spec.ts" />
++      <test-names>
++        <test-name value="Registration pop up" />
++      </test-names>
++      <method v="2" />
++    </configuration>
+     <configuration name="Registration pop up.Registration, positive scenario" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+-      <node-interpreter value="project" />
++      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v20.12.0/bin/node" />
+       <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+       <working-dir value="$PROJECT_DIR$" />
+       <envs />
+@@ -70,8 +103,21 @@
+       </test-names>
+       <method v="2" />
+     </configuration>
++    <configuration default="true" type="JavaScriptTestRunnerPlaywright">
++      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v20.12.0/bin/node" />
++      <envs />
++      <scope-kind value="ALL" />
++      <method v="2" />
++    </configuration>
++    <list>
++      <item itemvalue="Playwright.Registration pop up" />
++      <item itemvalue="Playwright.All Tests" />
++      <item itemvalue="Playwright.Registration pop up.Registration, positive scenario" />
++    </list>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Playwright.Registration pop up" />
++        <item itemvalue="Playwright.All Tests" />
+         <item itemvalue="Playwright.Registration pop up.Registration, positive scenario" />
+       </list>
+     </recent_temporary>
+@@ -92,7 +138,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1733350981371</updated>
+       <workItem from="1733350982422" duration="3432000" />
+-      <workItem from="1733362622714" duration="5221000" />
++      <workItem from="1733362622714" duration="7107000" />
+     </task>
+     <task id="LOCAL-00001" summary="initial commit">
+       <option name="closed" value="true" />
+@@ -110,7 +156,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1733351470222</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="first commit">
++      <option name="closed" value="true" />
++      <created>1733368042075</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1733368042075</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -118,6 +172,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="initial commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
++    <MESSAGE value="first commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+   </component>
+ </project>
+\ No newline at end of file
