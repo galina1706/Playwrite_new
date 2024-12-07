@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ce499ad-b022-40c6-ba0c-1669eb8cb8d6" name="Changes" comment="initial commit">
+    <list default="true" id="2ce499ad-b022-40c6-ba0c-1669eb8cb8d6" name="Changes" comment="hw_25.1 work with .env">
+      <change afterPath="$PROJECT_DIR$/tests/pages/localStor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/userGaragePage.spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/first.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/first.spec.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hw_25.1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,21 +43,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;hw__23.1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/user/WebstormProjects/Playwrite_new/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Playwright.Registration Pop-up Tests.executor": "Run",
+    "Playwright.Registration pop up.Registration, positive scenario (1).executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "hw__26.1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/Users/user/.nvm/versions/node/v20.12.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "/Users/user/WebstormProjects/Playwrite_new/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Playwright.Registration Pop-up Tests">
+    <configuration name="Registration Pop-up Tests" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tests/pages/pomauth.spec.ts" />
+      <test-names>
+        <test-name value="Registration Pop-up Tests" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Registration pop up.Registration, positive scenario (1)" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/pages/pomauth.spec.ts" />
+      <test-names>
+        <test-name value="Registration pop up" />
+        <test-name value="Registration, positive scenario" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="Registration pop up.Registration, positive scenario" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
@@ -70,8 +100,15 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Playwright.Registration Pop-up Tests" />
+      <item itemvalue="Playwright.Registration pop up.Registration, positive scenario (1)" />
+      <item itemvalue="Playwright.Registration pop up.Registration, positive scenario" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Playwright.Registration Pop-up Tests" />
+        <item itemvalue="Playwright.Registration pop up.Registration, positive scenario (1)" />
         <item itemvalue="Playwright.Registration pop up.Registration, positive scenario" />
       </list>
     </recent_temporary>
@@ -93,6 +130,7 @@
       <updated>1733350981371</updated>
       <workItem from="1733350982422" duration="3432000" />
       <workItem from="1733362622714" duration="5221000" />
+      <workItem from="1733554159812" duration="511000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -110,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733351470222</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw_24.1 upgrade - page object commit">
+      <option name="closed" value="true" />
+      <created>1733435946072</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733435946072</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hw_25.1 work with .env">
+      <option name="closed" value="true" />
+      <created>1733455714117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733455714117</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +172,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="hw_24.1 upgrade - page object commit" />
+    <MESSAGE value="hw_25.1 work with .env" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_25.1 work with .env" />
   </component>
 </project>
