@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ce499ad-b022-40c6-ba0c-1669eb8cb8d6" name="Changes" comment="hw_24.1 upgrade - page object commit">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2ce499ad-b022-40c6-ba0c-1669eb8cb8d6" name="Changes" comment="hw_25.1 work with .env">
+      <change afterPath="$PROJECT_DIR$/tests/pages/localStor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/userGaragePage.spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playwright.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/playwright.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw_24.1" />
+        <entry key="$PROJECT_DIR$" value="hw_25.1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,12 +49,14 @@
     "Playwright.Registration pop up.Registration, positive scenario (1).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "hw__25.1",
+    "git-widget-placeholder": "hw__26.1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/Users/user/.nvm/versions/node/v20.12.0/bin/node",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
     "ts.external.directory.path": "/Users/user/WebstormProjects/Playwrite_new/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -130,6 +130,7 @@
       <updated>1733350981371</updated>
       <workItem from="1733350982422" duration="3432000" />
       <workItem from="1733362622714" duration="5221000" />
+      <workItem from="1733554159812" duration="511000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -155,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733435946072</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hw_25.1 work with .env">
+      <option name="closed" value="true" />
+      <created>1733455714117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733455714117</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +173,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="hw_24.1 upgrade - page object commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw_24.1 upgrade - page object commit" />
+    <MESSAGE value="hw_25.1 work with .env" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_25.1 work with .env" />
   </component>
 </project>
